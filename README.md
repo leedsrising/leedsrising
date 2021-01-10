@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Leeds </h1> 
 
-<!--
-**leedsrising/leedsrising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/-@leedsrising-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/leedsrising/) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align = "center"><a href="https://www.leedsrising.com/">Personal Website</a></h2>
+
+
+<p align="center">
+<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
+</p>
+
+---

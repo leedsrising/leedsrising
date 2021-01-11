@@ -18,6 +18,8 @@
 
 # Projects: 
 
+Please note that while all projects directly affiliated with coursework have been approved by Cornell to be posted, they are still protected by the MIT license.
+
 ## General ML:
 - Spotify song popularity predictions
 

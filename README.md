@@ -24,6 +24,7 @@ Please note that while all projects directly affiliated with coursework have bee
 - Spotify song popularity predictions
 - Hit song twitter scraping using tweepy and generating playlists with results
 - Simluating chatbots with different political orientations by pulling from reddit corpus associated with each political subgroup
+- Photograph exposure and aperture adjustment script
 
 ## Entpreneurial:
 - [Iris Photo](https://apps.apple.com/us/app/iris-photo/id1458070477)

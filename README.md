@@ -10,7 +10,7 @@
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
 </p>
 
-## I'm a PM at Bloomberg. I graduated from Cornell University with a B.S. in Computer Science and a B.S. in Operations Research and Information Engineering.
+## I'm a PM at Bloomberg. I graduated from Cornell University with a B.S. in Computer Science and a B.S. in Operations Research and Information Engineering. Lets talk shop about product / data science / design !
 
 - 📫   Reach me at: leedsrising [at] gmail [dot] com
 

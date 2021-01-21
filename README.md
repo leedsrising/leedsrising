@@ -12,7 +12,7 @@
 
 ## I'm a PM at Bloomberg. I graduated from Cornell University with a B.S. in Computer Science and a B.S. in Operations Research and Information Engineering.
 
-- 📫  Reach me at: leedsrising [at] gmail [dot] com
+- 📫   Reach me at: leedsrising [at] gmail [dot] com
 
 ---
 

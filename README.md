@@ -32,7 +32,7 @@ Please note that while all projects directly affiliated with coursework have bee
 - [Iris Photo](https://apps.apple.com/us/app/iris-photo/id1458070477)
 - [Groopcam](https://apps.apple.com/us/app/groopcam/id1496034307)
 
-## School:
+## School Related:
 - Simulations project (ORIE 4580) to design and optimize a repair network through pythonic sim
 - CamlMessage (CS 3110) a peer to peer command line messaging service using sockets and featuring group chats, autocorrect functionality, and more!
 - Crowdsourcing meme study (CS 5306) investigating how meme templates can be generated and completed through crowdsourcing methodology

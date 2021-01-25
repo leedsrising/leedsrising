@@ -12,6 +12,8 @@
 
 ## I'm a PM at Bloomberg. I graduated from Cornell University with a B.S. in Computer Science and a B.S. in Operations Research and Information Engineering. Lets talk shop about product / data science / design !
 
+- My hobbies include squash, glassblowing, weightlifting, drawing, and doing architecture tours with my dad (who is an architect himself)! Also an avid student of psychology (most recently - have been learning more about identifying the neural foundations of epistemic curiosity and information-seeking). Psychology, information retention, and the power of nostalgia play and important and interesting role in the vision for the value proposition of my startup Iris photo!
+
 - 📫   Reach me at: leedsrising [at] gmail [dot] com
 
 ---

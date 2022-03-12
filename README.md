@@ -1,4 +1,4 @@
-<h1 align="center"> Leeds Rising - Product Manager, Data Scientist, always curious</h1> 
+<h1 align="center">Leeds Rising</h1> 
 
 [![linkedin](https://img.shields.io/badge/-@leedsrising-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/leedsrising/) 
 

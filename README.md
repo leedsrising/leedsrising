@@ -10,21 +10,14 @@
 <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
 </p>
 
-## I'm a PM at Bloomberg. I graduated from Cornell University with a B.S. in Computer Science and a B.S. in Operations Research and Information Engineering. Lets talk shop about product / data science / design !
-
 - 📫   Reach me at: leedsrising [at] gmail [dot] com
 
 ---
-
-# Projects: 
-
-Please note that while all projects directly affiliated with coursework have been approved by Cornell to be posted, they are still protected by the MIT license.
 
 ## General:
 - Spotify song popularity predictions
 - Hit song twitter scraping using tweepy and generating playlists with results
 - Simluating chatbots with different political orientations by pulling from reddit corpus associated with each political subgroup
-- Photograph exposure and aperture adjustment script
 
 ## Entpreneurial:
 - [Iris Photo](https://apps.apple.com/us/app/iris-photo/id1458070477)

@@ -13,7 +13,3 @@
 - 📫   Reach me at: leedsrising [at] gmail [dot] com
 
 ---
-
-- [Personal Website](https://www.leedsrising.com)
-
----
